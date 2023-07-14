@@ -1,17 +1,17 @@
-### 《VulFewShot: Contrastive Learning for Few-Shot Vulnerability Classification》
+### This is the online repository of 《VulFewShot: Contrastive Learning for Few-Shot Vulnerability Classification》
 
-#### Subsequent experimental results and project code will be open source
-<!--
-**VulFewShot/VulFewShot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Dataset
 
-Here are some ideas to get you started:
+The datasets we use are MVD and MVD-part, which are in the compressed file named by the first issue name.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experiment
+
+The core file is the main.py, where the core functions are main() and main_model().
+
+The experiment consisted of the following steps:
+
+1. Static analysis and processing to generate pkl files.
+
+2. Split training and test sets, 10-fold crossover, etc.
+
+Run main.py to run and test.
