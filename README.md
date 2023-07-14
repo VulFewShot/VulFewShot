@@ -14,4 +14,4 @@ The experiment consisted of the following steps:
 
 2. Split training and test sets, 10-fold crossover, etc.
 
-Run main.py to run and test.
+3. Run main.py to run and test.
