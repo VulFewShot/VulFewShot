@@ -1,4 +1,4 @@
-### This is the online repository of 《VulFewShot: Contrastive Learning for Few-Shot Vulnerability Classification》
+### This is the online repository of 《VulFewShot: Improving Few-Shot Vulnerability Classification by Contrastive Learning》
 
 #### Dataset
 
